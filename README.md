@@ -1,108 +1,151 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Harshal%20Chaprot&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Cloud%20Enthusiast%20%7C%20CSE%20@%20SRM%20KTR&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Harshal%20Chaprot&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=55" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+Full-Stack+Apps;Exploring+AI+Integration;Cloud+Computing+at+SRM+KTR" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=System+Architecture+%26+Cloud+Engineering;Building+High-Performance+Web+Applications;Bridging+Frontend+Finesse+with+Backend+Brawn;Exploring+AI+%26+Machine+Learning+Integrations;Computer+Science+Engineering+%40+SRM+KTR" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-## 🪐 About Me
-I started my programming journey at **15**, diving into Python and MySQL. Today, I am a **Computer Science Engineering student specializing in Cloud Computing at SRM Institute of Science and Technology (KTR)**.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation"/>
+</div>
 
-- 🏗️ **Focus:** Full-Stack Development & Cloud Architecture.
-- ⚙️ **Current Stack:** Angular, Node.js, TypeScript, Java, and Python.
-- 🧠 **Exploring:** Integrating AI/ML features into real-world software systems.
-- 🌱 **Philosophy:** Continuous learning and building software that scales.
+---
+
+## 🌌 Executive Summary
+
+> *"I don't just write code; I engineer digital ecosystems. From the initial pixel on the frontend to the deepest database query in the cloud."*
+
+Hello world! 👋 I am **Harshal Chaprot**, a highly motivated Computer Science Engineering student specializing in Cloud Computing at **SRM Institute of Science and Technology (KTR)**. 
+
+My journey began at the age of **15** when I wrote my first lines of Python and executed my first MySQL query. That initial curiosity evolved into a relentless passion for software engineering. Today, I am focused on bridging the gap between aesthetically pleasing, intuitive user interfaces and highly scalable, fault-tolerant cloud backends. As the tech landscape shifts, I am actively integrating **Artificial Intelligence and Machine Learning** into modern software architectures to build smarter, context-aware applications.
 
 <br/>
 
-## 🛠️ Technology Ecosystem
+## 🧠 Engineering Philosophy & Core Focus
+
+<details>
+  <summary><b>✨ 1. Full-Stack Fluidity (Click to expand)</b></summary>
+  <br/>
+  I believe in owning the entire lifecycle of a feature. Using <b>Angular</b> and <b>TypeScript</b>, I craft strict, type-safe, and modular frontends. On the backend, I leverage the high throughput of <b>Node.js</b>, the enterprise robustness of <b>Java</b>, and the rapid analytical capabilities of <b>Python</b> to ensure seamless data flow.
+</details>
+
+<details>
+  <summary><b>☁️ 2. Cloud-Native Mindset (Click to expand)</b></summary>
+  <br/>
+  "It works on my machine" is not enough. I design applications with deployment in mind, focusing on containerization, microservices architecture, and utilizing robust databases like <b>PostgreSQL</b> and <b>MySQL</b> to ensure data integrity at scale.
+</details>
+
+<details>
+  <summary><b>🤖 3. AI-Driven Innovation (Click to expand)</b></summary>
+  <br/>
+  Traditional CRUD apps are evolving. I am actively exploring how Large Language Models (LLMs), machine learning APIs, and intelligent data pipelines can be integrated into everyday applications to enhance user experience and automate complex workflows.
+</details>
+
+---
+
+## 🛠️ The Technology Arsenal
+
+### 💻 Core Languages & Frontend Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,tailwind,bootstrap,sass&perline=8" />
+</p>
+
+### ⚙️ Backend Systems & API Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,fastapi&perline=8" />
+</p>
+
+### 🗄️ Database & Data Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=8" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,postman,vscode&perline=8" />
+</p>
+
+---
+
+## 🏆 Featured Architecture & Initiatives
+
+| 🚀 Project Classification | 📝 Description & Architecture | 🛠️ Core Tech Stack |
+| :--- | :--- | :--- |
+| **Enterprise Web Portals** | Developing highly responsive, SPA (Single Page Applications) utilizing Angular's component-based architecture. Focused on state management, lazy loading, and RxJS observables for asynchronous data streams. | `<Angular>` `<TypeScript>` `<RxJS>` `<SCSS>` |
+| **Cloud-Ready Microservices** | Designing stateless RESTful APIs and backend logic. Implementing robust authentication (JWT), role-based access control, and efficient ORM query optimization to reduce server latency. | `<Node.js>` `<Java>` `<Express>` `<PostgreSQL>` |
+| **AI Integration Engines** | Building experimental middleware using Python to connect standard web applications with intelligent machine learning models. Focusing on prompt engineering and automated data processing. | `<Python>` `<Flask/FastAPI>` `<AI APIs>` |
+| **Relational Data Modeling** | Architecting normalized database schemas (3NF) to handle complex, interrelated data structures while ensuring ACID compliance and query efficiency. | `<MySQL>` `<PostgreSQL>` `<SQL>` |
+
+---
+
+## 📈 Global Impact & Code Analytics
+
+*Metrics speak louder than words. Here is a real-time look at my GitHub activity and coding habits.*
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>Frontend</b></td>
-    <td align="center" width="25%"><b>Backend</b></td>
-    <td align="center" width="25%"><b>Databases</b></td>
-    <td align="center" width="25%"><b>DevOps/Cloud</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="padding-top: 15px;">
-      <img src="https://skillicons.dev/icons?i=angular,ts,html,css,tailwind&perline=3" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=harshalchaprot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=A9B1D6&icon_color=00FF99&count_private=true" alt="Harshal's GitHub Stats" />
     </td>
-    <td align="center" style="padding-top: 15px;">
-      <img src="https://skillicons.dev/icons?i=nodejs,java,py,express&perline=3" />
-    </td>
-    <td align="center" style="padding-top: 15px;">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
-    </td>
-    <td align="center" style="padding-top: 15px;">
-      <img src="https://skillicons.dev/icons?i=aws,docker,linux,git&perline=3" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalchaprot&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=ffffff" alt="Harshal's GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🏆 Elite Initiatives
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>📦 Cloud-Scale Backend</h3>
-      <p>Building high-performance RESTful APIs with Node.js and Java, optimized for low latency and high reliability.</p>
-      <br/>
-      <sub><b>Stack:</b> Java • Node.js • MySQL • Docker</sub>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🎨 Angular Enterprise UI</h3>
-      <p>Crafting pixel-perfect, accessible frontends using Angular's component-based architecture and TypeScript.</p>
-      <br/>
-      <sub><b>Stack:</b> Angular • TypeScript • RxJS • SCSS</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📈 My Coding Life in Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshalchaprot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" alt="Harshal's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshalchaprot&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=ffffff" alt="Harshal's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalchaprot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=A9B1D6" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshalchaprot&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshalchaprot&theme=tokyonight" width="80%" />
 </div>
 
-<br/>
+---
 
-## 🤝 Let's Connect & Build
+## ⚡ What I'm Doing Right Now
+
+- 📖 **Studying:** Deep diving into Advanced Cloud Architectures and System Design methodologies.
+- 👨‍💻 **Building:** Refining my full-stack capabilities by constructing modular, containerized web applications.
+- 🤝 **Collaborating:** Always open to contributing to Open Source projects, participating in hackathons, and networking with fellow engineers.
+- 🎮 **Beyond Code:** Believer in continuous self-improvement, reading up on tech trends, and exploring the intersection of technology and everyday life.
+
+---
+
+## 📬 Let's Collaborate & Build The Future
+
+*Whether it's a freelance project, a hackathon team, or a discussion about the future of cloud scaling—my inbox is always open.*
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzI1Mmc4eG8wdGZ5Z240eG9ueG9ueG9ueG9ueG9ueG9uJnB2PTE/L1R1TVr9WEnPW/giphy.gif" width="150" />
-  <br/>
-  <br/>
+  
   <a href="mailto:hchaprot@student.srmist.edu.in">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF99" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/harshalchaprot">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF99" alt="GitHub" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=harshalchaprot&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshalchaprot&color=00FF99&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100" style="border-radius: 10px;" alt="Matrix Hacker"/>
+  <p align="center">
+    <kbd>while (alive) { code(); learn(); deploy(); }</kbd>
+  </p>
 </div>
-
-<br/>
-
----
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i> <br/>
-  <b>Built with ❤️ by Harshal Chaprot</b>
-</p>
